@@ -1,0 +1,13 @@
+{
+  "name": "private-chat-server",
+  "version": "1.0.0",
+  "description": "Private Chat Stage 2 server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "ws": "^8.18.3"
+  }
+}
